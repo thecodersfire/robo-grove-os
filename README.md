@@ -24,3 +24,9 @@ The `robo-grove.svg` wallpaper is original. Robo Grove OS is an independent Ubun
 
 See [FEATURES.md](FEATURES.md) for three local tools included for robotics.
 
+
+The installer also includes three purpose-specific applications: **Wireshark, org.kicad.KiCad, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **Wireshark, KiCad, Arduino IDE 2**. See [FEATURES.md](FEATURES.md).
+
+The installer also includes three purpose-specific applications: **KiCad, Arduino IDE 2, Blender**. See [FEATURES.md](FEATURES.md).
